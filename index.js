@@ -36,7 +36,7 @@ exports.decorateTerm = (Term, { React, notify }) => {
 
     _onSearch () {
       const query = this.state.searchText.split(' ').join('+');
-      electron.shell.openExternal('https://www.google.com/#q=' + query);
+      electron.shell.openExternal('https://duckduckgo.com/?q=' + query);
     }
 
     render () {
