@@ -82,18 +82,19 @@ exports.decorateTerm = (Term, { React, notify }) => {
               onClick: this._onSearch,
               style: {
                 position: 'absolute',
-                width: '55px',
+                width: '135px',
                 height: '23px',
                 bottom: '-24px',
                 right: '-1px',
                 fontFamily: 'inherit',
                 borderRadius: '0px',
                 border: '0px',
-                backgroundColor: 'yellow',
+                color: 'white',
+                backgroundColor: '#DE5833',
                 cursor: 'pointer',
               },
             },
-            'Search'
+            'Search DuckDuckGo'
           )
         );
 
