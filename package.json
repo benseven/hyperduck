@@ -1,15 +1,15 @@
 {
-  "name": "hypergoogle",
+  "name": "hyperduck",
   "version": "0.0.2",
-  "description": "Search Google from Hyper",
+  "description": "Search DuckDuckGo from Hyper",
   "keywords": [
     "hyperterm",
     "hyper",
-    "google"
+    "duckduckgo"
   ],
-  "author": "Thomas O'Brien <tbobrien612@gmail.com>",
+  "author": "Thomas O'Brien <tbobrien612@gmail.com>, Edited by Ben Seven <hello+github@benseven.co.uk>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasbeta/hypergoogle"
+    "url": "git+https://github.com/benseven/hyperduck"
   }
 }
